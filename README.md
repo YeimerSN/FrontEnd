@@ -23,4 +23,4 @@ Por otro lado la vista _LA MARCA_ presenta el contenido brindado para el desarro
 Nota: En la prueba se realizo manejo de redireccionamiento.
 
 Para acceder a la prueba, se puede acceder por medio del siguiente link:
-*https://prueba-frontend-99259.web.app/*
+*https://prueba-frontend-99259.web.app/LaMarca*
