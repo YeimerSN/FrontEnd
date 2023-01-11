@@ -1,0 +1,23 @@
+/*Estilos de la clase nav-link*/
+.nav-link {
+    color: white !important;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo-image{
+    width: 110px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 7px;
+}
+/*Efecto de subrayado*/
+.logo-image:hover{
+    border-bottom:1px solid #CBBB00;
+}
+a:hover { 
+    border-bottom:1px solid #CBBB00;
+}

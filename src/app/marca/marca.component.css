@@ -1,0 +1,87 @@
+/*
+Estilos de la barra de información, y las imagenes principales
+*/
+.barra{
+    background-color: black;
+    color:white;
+}
+.back{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    margin-top: -10%;
+    z-index: 1;
+}
+.mid{
+    position: relative;
+    width: 13%;
+    height: 13%;
+    right: 8%;
+    z-index: 2;
+}
+.front{
+    position: relative;
+    width: 37%;
+    height: 70%;
+    left: -30%;
+    z-index: 3;
+}
+.arrow{
+    width: 8%;
+    margin-left: 67%;
+}
+/*Estilo para la barra segmentada bajo el logo de "LA MARCA"*/
+.punteado{
+    border-bottom-style: dashed; 
+    border-bottom-width: 2px;
+    border-color: #FFB265;
+    width: 30%;
+    margin-left: 20px;
+}
+.back2{
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
+.flotante{
+    position: relative;
+    width: inherit;
+    z-index: 1;
+}
+/*Estilos complementarios*/
+p{
+    font-family: "Courier New";
+    font-family: 'PT Sans';   
+    font-size: 20;
+}
+.tablemenu{
+    width: inherit;
+    max-width: 805px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.distancia{
+    margin-left: 20px;
+}
+.lineaIzquierda{
+    border-left: 2px white solid;
+}
+.lineaDerecha{
+    border-right: 2px white solid;
+}
+.sobreImagen{
+    color: white;
+}
+.titulo{
+    color: gray;
+    font-family: "Courier New";
+    font-family: 'PT Sans';
+}
+.textoComplementario{
+    color: gray;
+    justify-self: unset;
+}
+.estiloTexto{
+    margin-left: 25%;
+}

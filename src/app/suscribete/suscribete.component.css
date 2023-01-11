@@ -1,0 +1,20 @@
+div {
+    margin-bottom: 10px;
+}
+
+.tachado {
+    text-decoration-line: line-through;
+    text-decoration-color: #FFB265;
+    text-decoration-thickness: 2px;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+}
+button{
+    background-color: #FFB265;
+}
+input, select{
+    background-color: #D1D1D1;
+}
